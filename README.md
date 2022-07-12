@@ -7,3 +7,13 @@ I want to master on how to upload repositories on github with no effort and help
 
 I learned how to make a repository on github and how to push the code.
 I learned that certain changes you make on css can effect the web html.
+
+Live Deployment URL 
+https://akhi2time.github.io/Refractor-Project
+
+Refractor Project URL
+https://github.com/Akhi2time/Refractor-Project
+
+<img width="1440" alt="GitHub Project 1 SC" src="https://user-images.githubusercontent.com/107963698/178401682-4555461a-2cb4-4142-b7a9-1f5302dfda33.png">
+
+
